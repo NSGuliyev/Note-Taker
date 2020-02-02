@@ -1,6 +1,6 @@
 # Note-Taker
 Files are deployed to Heroku.
-[Click here](https://nsguliyev-note-taker.herokuapp.com/notes)to activate application.
+[Click here](https://nsguliyev-note-taker.herokuapp.com/notes) to activate application.
 
 # Description
 An application that writes, saves, and deletes notes using an Express backend. Can be used for digital to do lists, shopping lists, reminders, and other information storage.
